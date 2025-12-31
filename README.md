@@ -35,3 +35,11 @@ FinGuide AI Pro helps students identify financial risks early, reduce unnecessar
 - Personalized AI chat advisor
 - Multi-month trend analysis
 - Mobile app deployment
+## Demo Screenshots
+![Dashboard](screenshots/dashboard.png)
+![Financial Summary](screenshots/summary.png)
+
+🔗 Live Demo: https://finguide-ai-pro.streamlit.app
+
+Add Architecture
+User → UI → AI Engine → Insights
